@@ -1,6 +1,7 @@
 # MS in Data Science (Self-Learning @ Harvard)
 
 ## Python Programming (CSCI E-7)
+Course link: https://canvas.harvard.edu/courses/33171/assignments/syllabus
 Sources: http://interactivepython.org/runestone/static/thinkcspy/index.html & http://www.data-analysis-in-python.org/index.html
 
 1. Python, Jupyter, Variables, Printing, Documentation
@@ -17,6 +18,7 @@ Sources: http://interactivepython.org/runestone/static/thinkcspy/index.html & ht
 12. scikit-learn for machine learning
 
 ## Statistics (Stat 100)
+Course link: https://canvas.harvard.edu/courses/35159/assignments/syllabus
 Source: explore
 
 1. Introduction to Data (https://en.wikipedia.org/wiki/Data)
@@ -31,6 +33,7 @@ Source: explore
 10. Inferences for Correlation and Simple Linear Regression (https://en.wikipedia.org/wiki/Pearson_correlation_coefficient)
 
 ## Probability (Stat 110)
+Course link: https://projects.iq.harvard.edu/stat110
 Source: https://projects.iq.harvard.edu/stat110/youtube
 
 1. Probability and Counting
@@ -69,6 +72,7 @@ Source: https://projects.iq.harvard.edu/stat110/youtube
 34. A Look Ahead
 
 ## Data Science I ( AC 209a)
+Course link: https://canvas.harvard.edu/courses/29726/assignments/syllabus
 Source: https://github.com/greenore/ac209a-coursework & https://github.com/cs109/a-2017
 
 1. Introduction
@@ -93,6 +97,7 @@ Source: https://github.com/greenore/ac209a-coursework & https://github.com/cs109
 20. A/B Testing 
 
 ## Data Science II (AC 209b)
+Course link: http://cs109.github.io/2015/pages/videos.html
 Source: https://github.com/greenore/ac209b-coursework & https://github.com/cs109/2018-cs109b
 
 ### Part I
@@ -112,7 +117,8 @@ Source: https://github.com/greenore/ac209b-coursework & https://github.com/cs109
 8. Autoencoders
 9. Generative Models & GANs
 
-## Data Visualization (CS 171)
+## Data Visualization (CSCI E-171)
+Course link: http://www.cs171.org/2018/syllabus/
 Source: https://github.com/greenore/cs171-coursework
 
 1. Introduction
@@ -124,7 +130,8 @@ Source: https://github.com/greenore/cs171-coursework
 7. Projects
 8. Exploration
 
-## Big Data Analytics (E 63)
+## Big Data Analytics (CSCI E-63)
+Course link: https://canvas.harvard.edu/courses/32949/assignments/syllabus
 Source: explore
 
 1. Basic Statistics and R/Python
