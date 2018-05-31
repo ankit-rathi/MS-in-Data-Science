@@ -69,7 +69,7 @@ Source: https://projects.iq.harvard.edu/stat110/youtube
 34. A Look Ahead
 
 ## Data Science I ( AC 209a)
-Source: https://github.com/greenore/ac209a-coursework
+Source: https://github.com/greenore/ac209a-coursework & https://github.com/cs109/a-2017
 
 1. Introduction
 2. Stats & EDA
@@ -93,7 +93,7 @@ Source: https://github.com/greenore/ac209a-coursework
 20. A/B Testing 
 
 ## Data Science II (AC 209b)
-Source: https://github.com/greenore/ac209b-coursework
+Source: https://github.com/greenore/ac209b-coursework & https://github.com/cs109/2018-cs109b
 
 ### Part I
 1. Smoothers & GAMs
