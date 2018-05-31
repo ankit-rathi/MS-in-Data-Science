@@ -19,7 +19,7 @@ Sources: http://interactivepython.org/runestone/static/thinkcspy/index.html & ht
 
 ## Statistics (Stat 100)
 Course link: https://canvas.harvard.edu/courses/35159/assignments/syllabus </br>
-Source: explore
+Source: https://www.openintro.org/stat/textbook.php?stat_book=os
 
 1. Introduction to Data (https://en.wikipedia.org/wiki/Data)
 2. Categorical & Numerical Data (https://towardsdatascience.com/data-types-in-statistics-347e152e8bee)
