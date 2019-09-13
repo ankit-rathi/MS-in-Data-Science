@@ -14,23 +14,19 @@
 
 ###### [Linear Regression](https://en.wikipedia.org/wiki/Linear_regression), [Nonlinear Regression](https://en.wikipedia.org/wiki/Nonlinear_regression), [Polynomial Regression](https://en.wikipedia.org/wiki/Polynomial_regression), [Regularization](https://en.wikipedia.org/wiki/Regularization_(mathematics)), [Ridge](https://en.wikipedia.org/wiki/Tikhonov_regularization), [Lasso](https://en.wikipedia.org/wiki/Lasso_(statistics)) 
 
-###### [Bagging](https://en.wikipedia.org/wiki/Bootstrap_aggregating), [Boosting](https://en.wikipedia.org/wiki/Boosting_(machine_learning)), [Gradient Boosting](https://en.wikipedia.org/wiki/Gradient_boosting)
-
 ##### C&R Both
+
+###### [Ensemble Learning](https://en.wikipedia.org/wiki/Ensemble_learning), [Bagging](https://en.wikipedia.org/wiki/Bootstrap_aggregating), [Boosting](https://en.wikipedia.org/wiki/Boosting_(machine_learning)), [Gradient Boosting](https://en.wikipedia.org/wiki/Gradient_boosting)
 
 ###### [Decision Tree](https://en.wikipedia.org/wiki/Decision_tree_learning), [Random Forest](https://en.wikipedia.org/wiki/Random_forest), [Support-Vector Machine](https://en.wikipedia.org/wiki/Support-vector_machine), [Neural Networks](https://en.wikipedia.org/wiki/Artificial_neural_network)
 
 ##### Other Topics
 
-###### [Bias-Variance Tradeoff](https://en.wikipedia.org/wiki/Bias%E2%80%93variance_tradeoff), [Statistical Learning](https://en.wikipedia.org/wiki/Statistical_learning_theory), [Ensemble Learning](https://en.wikipedia.org/wiki/Ensemble_learning)
+###### [Bias-Variance Tradeoff](https://en.wikipedia.org/wiki/Bias%E2%80%93variance_tradeoff), [Statistical Learning](https://en.wikipedia.org/wiki/Statistical_learning_theory), [CRISP-DM](https://en.wikipedia.org/wiki/Cross-industry_standard_process_for_data_mining)
 
 #### [Unsupervised Learning](https://en.wikipedia.org/wiki/Unsupervised_learning)
 
-##### [Clustering](https://en.wikipedia.org/wiki/Cluster_analysis)
-
-##### [Dimensionality Reduction](https://en.wikipedia.org/wiki/Dimensionality_reduction)
-
-##### [Anomaly Detection](https://en.wikipedia.org/wiki/Anomaly_detection)
+##### [Clustering](https://en.wikipedia.org/wiki/Cluster_analysis), [Dimensionality Reduction](https://en.wikipedia.org/wiki/Dimensionality_reduction), [Anomaly Detection](https://en.wikipedia.org/wiki/Anomaly_detection), [Association Rule Learning](https://en.wikipedia.org/wiki/Association_rule_learning)
 
 #### [Reinforcement Learning](https://en.wikipedia.org/wiki/Reinforcement_learning)
 
