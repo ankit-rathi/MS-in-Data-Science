@@ -36,6 +36,4 @@
 
 #### [Deep Learning](https://en.wikipedia.org/wiki/Deep_learning)
 
-#### [Perceptron](https://en.wikipedia.org/wiki/Perceptron), [MLP](https://en.wikipedia.org/wiki/Multilayer_perceptron), [RBM](https://en.wikipedia.org/wiki/Restricted_Boltzmann_machine), [CNN](https://en.wikipedia.org/wiki/Convolutional_neural_network), [RNN](https://en.wikipedia.org/wiki/Recurrent_neural_network), [LSTM](https://en.wikipedia.org/wiki/Long_short-term_memory), [GRU](https://en.wikipedia.org/wiki/Gated_recurrent_unit), [Autoencoder](https://en.wikipedia.org/wiki/Autoencoder), [GAN](https://en.wikipedia.org/wiki/Generative_adversarial_network), [SOM](https://en.wikipedia.org/wiki/Self-organizing_map)
-
-
+##### [Perceptron](https://en.wikipedia.org/wiki/Perceptron), [MLP](https://en.wikipedia.org/wiki/Multilayer_perceptron), [RBM](https://en.wikipedia.org/wiki/Restricted_Boltzmann_machine), [CNN](https://en.wikipedia.org/wiki/Convolutional_neural_network), [RNN](https://en.wikipedia.org/wiki/Recurrent_neural_network), [LSTM](https://en.wikipedia.org/wiki/Long_short-term_memory), [GRU](https://en.wikipedia.org/wiki/Gated_recurrent_unit), [Autoencoder](https://en.wikipedia.org/wiki/Autoencoder), [GAN](https://en.wikipedia.org/wiki/Generative_adversarial_network), [SOM](https://en.wikipedia.org/wiki/Self-organizing_map)
