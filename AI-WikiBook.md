@@ -22,7 +22,7 @@
 
 ##### Other Topics
 
-###### [Bias-Variance Tradeoff](https://en.wikipedia.org/wiki/Bias%E2%80%93variance_tradeoff), [Statistical Learning](https://en.wikipedia.org/wiki/Statistical_learning_theory)
+###### [Bias-Variance Tradeoff](https://en.wikipedia.org/wiki/Bias%E2%80%93variance_tradeoff), [Statistical Learning](https://en.wikipedia.org/wiki/Statistical_learning_theory), [Ensemble Learning](https://en.wikipedia.org/wiki/Ensemble_learning)
 
 #### [Unsupervised Learning](https://en.wikipedia.org/wiki/Unsupervised_learning)
 
